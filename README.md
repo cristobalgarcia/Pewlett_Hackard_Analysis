@@ -10,3 +10,7 @@ The purpose of the analysis is to distinguish what positions in the company are 
 * For seven different titles there will be retiring positions. 
 
 ## Summary
+There looks to be a problem with replacing all employees retiring. Using the table below you can see the total amount of positions with an employee retiring is 72,458 while the amount of employees eligible for the mentoring program is 1,940. One solution is widening the criterias for eligibility for the mentor program. 
+
+
+![alt text](Data/retiring.png)
